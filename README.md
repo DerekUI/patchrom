@@ -30,7 +30,7 @@ ColorOS Patchrom
 
 注意：
 ----------------
-1.可能需要修改boot.img（init.rc中的BOOTCLASSPATH加入oppo-frmework.jar）附：[Android-Kitchen](https://github.com/dsixda/Android-Kitchen/tags)
+1.可能需要修改boot.img（init.rc中的BOOTCLASSPATH加入oppo-framework.jar）附：[Android-Kitchen](https://github.com/dsixda/Android-Kitchen/tags)
 
 2.device/makefile里有个变量可能需要修改
 
